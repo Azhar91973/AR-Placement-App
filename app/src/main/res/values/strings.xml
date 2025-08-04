@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AR Placement App</string>
+    <string name="drill_desc">Select a drill to see description here.</string>
+    <string name="start_ar_drill">Start AR Drill</string>
+</resources>
